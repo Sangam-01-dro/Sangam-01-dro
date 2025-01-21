@@ -1,15 +1,9 @@
 ## Hi there 👋
 
-**Sangam-01-dro/Sangam-01-dro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Well-versed in Python, C
+I am passionate about coding, technonlogy and programming languages evolve constantly giving me an opportunity to rise further.
 
-Here are some ideas to get you started:
+## Early Warning System of Aircrafts
+It is a project on detection of 5th gen Aircrafys with the help of high frequency and intensity motion filter
 
-## 🔭 I’m currently working on
-- Early Warning Systems of Aircrafts
-## 💬 Ask me about
-- Python,C
-  
-- 📫 How to reach me: https://www.linkedin.com/in/sangam-kumar-596a0a322/
-- 😄 Pronouns: he/him
-
-
+### Courses done from IIT Patna
