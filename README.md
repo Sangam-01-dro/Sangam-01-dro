@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
-##Early Warning Systems of Aircrafts
+## Early Warning Systems of Aircrafts
 - 💬 Ask me about
-##Python,C
+## Python,C
 - 📫 How to reach me: https://www.linkedin.com/in/sangam-kumar-596a0a322/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
